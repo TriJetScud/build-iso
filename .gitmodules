@@ -221,3 +221,6 @@
 [submodule "pkgs/hv-userspace-daemons"]
 	path = pkgs/hv-userspace-daemons
 	url = git://github.com/v10networks/hv_kvp_daemon.git
+[submodule "pkgs/linux-image"]
+	path = pkgs/linux-image
+	url = https://github.com/TriJetScud/linux-vyatta.git
