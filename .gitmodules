@@ -221,3 +221,6 @@
 [submodule "pkgs/vyatta-cron"]
 	path = pkgs/vyatta-cron
 	url = https://github.com/vyos/vyatta-cron.git
+[submodule "pkgs/hv-userspace-daemons"]
+	path = pkgs/hv-userspace-daemons
+	url = git://github.com/v10networks/hv_kvp_daemon.git
